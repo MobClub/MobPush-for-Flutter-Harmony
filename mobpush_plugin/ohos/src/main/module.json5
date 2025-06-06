@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "mobpush_plugin_ohos",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
